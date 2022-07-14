@@ -1,0 +1,18 @@
+    
+    
+body 
+    {background-color:lightblue;
+}
+
+head, body {
+    color: darkblue;
+}
+
+h3 {
+    text-align: center;
+}
+
+img {
+    border: dashed red;
+    border-width: 2px;
+}
