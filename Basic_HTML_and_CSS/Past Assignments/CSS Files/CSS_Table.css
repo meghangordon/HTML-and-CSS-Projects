@@ -1,0 +1,22 @@
+table {
+	border: 3px solid black;
+}
+
+td:hover {
+	background-color:pink;
+	color: black;
+}
+
+tr, th {
+	background-color: pink;
+	color: cadetblue;
+}
+
+tr, td {
+	background-color: green;
+	color: white;
+}
+
+
+
+

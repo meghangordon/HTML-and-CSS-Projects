@@ -94,7 +94,7 @@ ANIMATION EFFECT
 ----------------------------------------------------------*/
 @keyframes race {
     0%, 100% {
-        transform: translateY(0px)
+        transform: translateY(0px);
         background-image: url("../Images/Icons/icons.png");
     }
     50% {
